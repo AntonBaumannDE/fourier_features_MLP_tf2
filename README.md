@@ -12,7 +12,7 @@ https://bmild.github.io/fourfeat/
 
 ## Overview of the replicated results:
 
-<img src="ground_truth.png" width="50%" height="50%"><img src="Inference_without_Fourier_features.png" width="50%" height="50%"><img src="Fourier_features_result.png" width="50%" height="50%">
+<img src="ground_truth.png" width="30%" height="30%"><img src="Inference_without_Fourier_features.png" width="30%" height="30%"><img src="Fourier_features_result.png" width="30%" height="30%">
 
 ## Abstract from the original paper:
 
