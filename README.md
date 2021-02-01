@@ -11,7 +11,7 @@ Project-page with links to the original code and the paper:
 https://bmild.github.io/fourfeat/
 
 
-<img src="ground_truth.png" width="1000" height="1000">
+<img src="ground_truth.png" width="50%" height="50%">
 
 ![alt text](ground_truth.png){:height="50%" width="50%"}![alt text](Inference_without_Fourier_features.png){:height="50%" width="50%"}![alt text](Fourier_features_result.png){:height="50%" width="50%"}
 
