@@ -10,7 +10,7 @@ Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithi
 Project-page with links to the original code and the paper: 
 https://bmild.github.io/fourfeat/
 
-## Overview of the replicated results:
+## Image regression results:
 
 <img src="ground_truth.png" width="30%" height="30%"><img src="Inference_without_Fourier_features.png" width="30%" height="30%"><img src="Fourier_features_result.png" width="30%" height="30%">
 
