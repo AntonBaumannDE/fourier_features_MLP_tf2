@@ -1,4 +1,4 @@
-# gaussian_fourier_MLP_tf2
+# Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains
 
 Replicated some JAX snippets in TF2 to see how passing the input through Fourier feature mappings performs on different images and parameters. 
 This method enabled the NERF implementation by Mildenhall et al. to render photorealistic scenes. 
