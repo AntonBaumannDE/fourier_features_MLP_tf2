@@ -10,6 +10,6 @@ Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithi
 Project-page with links to the original code and the paper: 
 https://bmild.github.io/fourfeat/
 
-![alt text](ground_truth.png)![alt text](Inference_without_Fourier_features.png)
+![alt text](ground_truth.png=1250x1250)![alt text](Inference_without_Fourier_features.png=1250x1250)
 
 ![alt text](tancik_et_al_abstract.png)
