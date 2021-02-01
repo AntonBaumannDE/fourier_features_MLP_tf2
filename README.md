@@ -14,6 +14,6 @@ https://bmild.github.io/fourfeat/
 
 <img src="ground_truth.png" width="30%" height="30%"><img src="Inference_without_Fourier_features.png" width="30%" height="30%"><img src="Fourier_features_result.png" width="30%" height="30%">
 
-## Appliacation overview from the original paper:
+## Application overview from the original paper:
 
 ![alt text](tancik_et_al_abstract.png)
